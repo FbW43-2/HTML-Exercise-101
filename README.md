@@ -18,9 +18,13 @@ Markup languages define the style and structure of a document so that a computer
 ### - How does the browser render HTML?
 
 1.Process HTML markup and build the DOM tree.
+
 2.Process CSS markup and build the CSSOM tree.
+
 3.Combine the DOM and CSSOM into a render tree.
+
 4.Run layout on the render tree to compute geometry of each node.
+
 5.Paint the individual nodes to the screen.
 
 ### - What is CSS?
