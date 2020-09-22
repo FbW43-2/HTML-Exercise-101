@@ -32,13 +32,15 @@ Markup languages define the style and structure of a document so that a computer
 
 ### - What is CSS?
 
-CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work.
+CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media and the CSS saves a lot of work.
 
-CSS can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files.
+CSS can control the layout of multiple web pages all at once and the external stylesheets are stored in CSS files.
 
 ### - What is the history of CSS?
 
-CSS was first proposed by Håkon Wium Lie on October 10, 1994. At the time, Lie was working with Tim Berners-Lee at CERN. ... Style sheets have existed in one form or another since the beginnings of Standard Generalized Markup Language (SGML) in the 1980s, and CSS was developed to provide style sheets for the web.
+CSS was first proposed by Håkon Wium Lie on October 10, 1994. At the time, Lie was working with Tim Berners-Lee at CERN.
+
+Style sheets have existed in one form or another since the beginnings of Standard Generalized Markup Language (SGML) in the 1980s, and CSS was developed to provide style sheets for the web.
 
 ### - Why CSS important ?
 
