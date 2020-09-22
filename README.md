@@ -1,12 +1,5 @@
 # Exercise on HTML | History | Browser | CSS
 
-## Instructions
-
-1. Create a branch with your name.
-2. Create ensure you have an index.html and README.md file
-3. Using the README.md file answer the questions below
-4. Show an example of all versions of HTML(Basic structure) in your index.html file.
-
 ## What is HTML?
 
 Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. t allows the user to create and structure sections, paragraphs, headings, links, and blockquote for web pages and applications.
