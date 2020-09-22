@@ -3,11 +3,13 @@
 ### - What is HTML?
 
 HTML is a very evolving markup language and has evolved with various versions updating. It is the standard markup language for Web pages.
+
 HTML elements are the building blocks of HTML pages and the HTML elements are represented by <> tags
 
 ### - What is the history of HTML and who is behind HTML?
 
-HTML has had a life-span of roughly seven years and it was created by Sir Tim Berners-Lee in late 1991 but it not released officially, which was published in 1995 as HTML 2.0. HTML 4.01 was published in late 1999 and was a major version of HTML.
+HTML has had a life-span of roughly seven years and it was created by Sir Tim Berners-Lee in late 1991 but it not released officially, which was published in 1995 as HTML 2.0.
+HTML 4.01 was published in late 1999 and was a major version of HTML.
 
 ### - What are Markup languages and types on markup languages
 
@@ -29,7 +31,8 @@ Markup languages define the style and structure of a document so that a computer
 
 ### - What is CSS?
 
-CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files.
+CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work.
+It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files.
 
 ### - What is the history of CSS?
 
