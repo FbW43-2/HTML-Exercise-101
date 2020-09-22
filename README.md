@@ -6,8 +6,6 @@
 
 HTML was created by Sir Tim Berners-Lee in late 1991 but was not released officially, which was published in 1995 as HTML 2.0. HTML 4.01 was published in late 1999 and was a major version of HTML.
 
-HTML is a very evolving markup language and has evolved with various versions updating. Long before its revised standards and specifications are carried in, each version has allowed its user to create web pages in the much easier and prettier way and make sites very efficient.
-
 - **HTML 1.0 was released in 1993 with the intention of sharing information which can be readable and accessible via web browsers. But not much of the developers were involved in creating websites. So the language was also not growing.**
 
 - **Then comes the HTML 2.0, published in 1995; which contains all the features of HTML 1.0 along with that few additional features; which remained as the standard markup language for designing and creating websites until January 1997 and refined various core features of HTML.**
